@@ -1,0 +1,35 @@
+AT&T is scaring customers into buying new phones with a misleading email
+BY
+MANUEL VONAU
+UPDATED JUL 24, 2020
+Even recent unlocked phones like the Galaxy S10e or the Nokia 6.1 are affected
+
+
+Readers like you help support Android Police. When you make a purchase using links on our site, we may earn an affiliate commission. Read More.
+Amid an economy-crushing pandemic, AT&T decided that now was a good time to send a scaremongering email to many of its customers, claiming that their phone "is not compatible with the new network and you need to replace it to continue receiving service." The email conveniently omits that this message is regarding a change that won't take place until February 2022, providing only a link that later calls out this change linked to the decommissioning of AT&T's legacy 3G network.
+
+
+Close
+
+The tone and language of the email make it sound like customers should buy a new phone via the carrier straight away: It advertises that AT&T makes "getting a new device online easy," detailing various free and fast shipping options. Oh boy, free shipping on your new $1000 smartphone! Even a technically savvy person could be easily confused by this email, and it's easy to see how an elderly person might look at it and effectively get scared into purchasing a new phone immediately.
+
+The notice is poorly worded enough that an AT&T subscriber asked if it was a scam AT&T's forums, since they own a relatively recent Galaxy S10e. Other customers even agreed that it's likely not a genuine email until someone eventually pointed to the support page that AT&T linked to through the "Learn more" button. It details that in February 2022, the carrier will turn off its 3G network, which will make some phones lose the ability to make voice calls.
+
+2 Images
+
+
+You might think that this isn't a widespread issue since most modern phones support 4G data and calling (or HDVoice, as AT&T calls it). However, AT&T whitelists a small number of handsets it directly sells to customers for 4G voice calling, and it looks like identical non-carrier phones don't necessarily work with the carrier's HDVoice service, like the aforementioned Galaxy S10e.
+
+
+AT&T does certify some popular unlocked smartphones as compatible with HD Voice, and you can find a list of them in this PDF on the carrier's website. Still, that list claims the unlocked S10e is supposed to be compatible with AT&T's HDVoice, despite the fact that an owner of said phone received this email stating otherwise. We're not sure if the email was mistakenly sent out to the S10e owner or if the list in the document is outdated (or has never been accurate). Either way, depending on how many handsets AT&T deems incompatible, this email might have gone out to a significant number of subscribers.
+
+When we did reach out to AT&T, the company provided us with the following statement:
+
+“This email was one of many planned to keep customers informed about the shutdown of our 3G network in early 2022.  It should have included the date that certain devices would no longer be supported.  We apologize for any confusion this may have caused and will be more clear in future updates.”
+
+When asked to clarify why the message was sent to some subscribers with phones that appear to  support HD Voice, the carrier only reiterated that users who "have a device that does not support HD Voice on our network or that requires 3G" should have received the notice." If you're still confused about your handset's fate, AT&T advises subscribers to contact customer care. You can also check out our quick how-to to determine if you're phone actually can use VoLTE on AT&T's network.
+
+
+Still, for those phones actually affected, AT&T could easily whitelist modern non-carrier devices like the S10e and the Nokia 6.1 (and why not even older ones like the OnePlus 5) so they could continue working on the network in 2022. Let's hope no one ends up feeling pressured into getting a new phone right now involuntarily.
+
+So there you have it: If you've received this email, you have more than a year and a half to upgrade your current phone. And in a best-case scenario, you received the email in mistake and your phone actually does work on AT&T's VoLTE. AT&T should strongly consider whitelisting more devices regardless, which would allow more customers to keep their handsets longer without switching to another carrier like T-Mobile (who will soon be deactivating their own 3G voice network).
